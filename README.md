@@ -1,1 +1,1 @@
-# for_stat_301
+# Diabetes Prediction Using Logistic Regression
